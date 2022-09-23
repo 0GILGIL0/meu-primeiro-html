@@ -1,0 +1,40 @@
+ 
+body {
+    margin: 0;
+}
+    div.quadrado {
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 1px;
+    background-color: white;
+         width: 2000px;
+        height: 307px;
+        margin: 0;
+    
+    }
+
+    div#q1 {background-color:rgb(255, 255, 255);
+    }
+
+    div#q2 { background-color: white;
+
+    }
+
+    div#q3 {
+
+    }
+    .ff12 {
+        width: 300px;
+        height: 300px;
+        margin: 3rem 0 0 0;
+       display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: aquamarine;
+        background-image: url(epic7.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(0.5);
+        cursor: pointer;
+        transition: 0.5s ease-in-out;
+    }
